@@ -9,19 +9,18 @@
 
 ## Descrição
 
-Usei 
 Esse projeto vai valer mais que o facebook. Para a realização desse projeto, foi utilizado a magnifica técnica do [EXtreme Go Horse](http://sou.gohorseprocess.com.br/). 
 
 ## Bibliotecas
-Scipai-aprende
-Pamdas
-Matplota
-Numpai
+* Scipai-aprende 
+* Pamdas
+* Matplota
+* Numpai
 
 ## Machine Learning
-Familia: Linear_Model
-Estimador: SGDRegressor
-Deu uma diferença em porcentagem de -16%
+* Familia: Linear_Model
+* Estimador: SGDRegressor
+* Deu uma diferença em porcentagem de -16%
 
 ## Integrantes do Projeto
 * **Lucas de Moura Rodrigues** - *14.00556-5*

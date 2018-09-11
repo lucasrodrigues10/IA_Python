@@ -18,9 +18,8 @@ Esse projeto vai valer mais que o facebook. Para a realização desse projeto, f
 * Numpai
 
 ## Machine Learning
-* Familia: Linear_Model
-* Estimador: SGDRegressor
-* Deu uma diferença em porcentagem de -16%
+* Familias: Linear_Model e SVM
+* Estimadores: SGDRegressor, LassoLars, Ridge e SVR
 
 ## Integrantes do Projeto
 * **Lucas de Moura Rodrigues** - *14.00556-5*

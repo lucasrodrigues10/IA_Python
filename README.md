@@ -1,15 +1,12 @@
-# Inteligência Artificial com Python#
+# Inteligência Artificial com Python
 
 <p align="center">
-  <img width="460" height="500" src="https://raw.githubusercontent.com/qingkaikong/blog/master/2017_12_machine_learning_funny_pictures/figures/figure_8.png">
+  <img width="400" height="350" src="https://raw.githubusercontent.com/qingkaikong/blog/master/2017_12_machine_learning_funny_pictures/figures/figure_8.png">
 </p>
 
-
-[![Github-Release](https://img.shields.io/github/release/filoe/cscore.svg)](https://github.com/lucasrodrigues10/imobiliariaLegal/releases)
-
 ## Descrição
-Projeto que usam inteligência artificial para prever preços.
-Um deles prediz o preço de uma casa e o projeto final o preço de uma ação.
+Projetos que usam inteligência artificial para prever preços.
+Um deles prediz o preço de casas e o projeto final o preço de uma ação.
 
 
 ## Bibliotecas
@@ -20,7 +17,7 @@ Um deles prediz o preço de uma casa e o projeto final o preço de uma ação.
 * Numpai
 
 ## Machine Learning
-**Preços da Casa**
+**Preços de Casas**
 * Familias: Linear_Model e SVM
 * Estimadores: SGDRegressor, LassoLars, Ridge e SVR
 
